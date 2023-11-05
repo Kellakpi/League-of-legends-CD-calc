@@ -1,2 +1,2 @@
-"# League-of-legends-CD-calc" 
-"# League-of-legends-CD-calc" 
+I'm so excited to share some update on my progress. I wanted to find a project to practice my code in, and I decided to make a calculator for a game called League of Legends. 
+There is a stat in the game called ability haste that lowers the cooldown on every ability. It was not too hard to find the equation, but it was challenging to put it in code. I managed to finish it in about 2 weeks, but League has 160 champions so I would have to enter individual cooldowns for each character for each level. There are 18 levels so that's about 11,520 ability points by hand! I stopped at the first 2 confirming the code works.
